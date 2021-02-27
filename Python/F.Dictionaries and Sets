@@ -1,0 +1,5 @@
+Dictionaries and Sets
+
+Dictionary = {"Artist":"Ed Sheeran","Genre":"Pop","Title":"Galway Girl","Format":"Digital","Duration In Seconds":"250","Released":"2017","CountriesCharted":"31","Singles Sold In Millions":"1.2"}
+
+print (Dictionary)

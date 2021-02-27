@@ -1,0 +1,12 @@
+Lists
+
+myUniqueList =[]
+print (myUniqueList)
+
+Fruit = myUniqueList
+
+myUniqueList = ["Apples","Oranges","Banana"]
+print (myUniqueList)
+
+print ("Apples" in myUniqueList)
+print ("Pear" in myUniqueList)

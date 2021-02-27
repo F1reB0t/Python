@@ -1,0 +1,17 @@
+If Statements
+
+a = 10
+b = 11
+c = 10
+if a == c:
+	print (True)
+if c == a:
+	print
+if a == b:
+	print (True)
+
+
+a = "6,5,"5""
+print (a)
+int_a = int(a)
+print(int_a)

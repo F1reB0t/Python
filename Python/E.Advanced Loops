@@ -1,0 +1,15 @@
+Advanced Loops
+
+for row in range (10)
+
+if row % 2 == 0:
+ for column in range (1,12):
+    if column % 2 == 1:
+    if column ! = 10:
+       print (" ", end = " ")
+      else:
+       print (" ")
+      else:
+       print ("|", end = " ")
+      else:
+       print (-----)
